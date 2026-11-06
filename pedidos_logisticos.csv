@@ -1,0 +1,14 @@
+ID_Pedido,Data,Produto,Quantidade,Região,Entregue_no_Prazo,Pedido_Perfeito,Tempo_de_Entrega,Custo_Envio_MZN,Urgente
+P001,2026-01-05 00:00:00,Arroz 25kg,100,Nacala,Sim,Sim,2,800.0,Não
+P002,2026-01-08 00:00:00,Arroz 25kg,150,Nampula,Sim,Sim,3,950.0,Sim
+P003,2026-01-12 00:00:00,Milho,200,Pemba,Não,Não,6,1200.0,Sim
+P004,2026-01-15 00:00:00,Arroz 25kg,120,Nacala,Sim,Sim,2,750.0,Não
+P005,2026-01-19 00:00:00,Feijão,80,Cuamba,Sim,Sim,3,600.0,Não
+P006,2026-01-22 00:00:00,Arroz 25kg,180,Nampula,Não,Não,5,1100.0,Sim
+P007,2026-01-25 00:00:00,Milho,250,Pemba,Sim,Sim,2,1300.0,Não
+P008,2026-01-27 00:00:00,Arroz 25kg,140,Nacala,Sim,Sim,3,850.0,Não
+P009,2026-01-29 00:00:00,Feijão,90,Cuamba,Não,Não,7,700.0,Sim
+P010,2026-01-31 00:00:00,Arroz 25kg,160,Nampula,Sim,Sim,2,900.0,Não
+P011,2026-11-06 00:00:00,Arroz 25kg,120,Nacala,Sim,Sim,2,850.0,Não
+P012,2026-11-06 00:00:00,Arroz 25kg,119,Nacala,Sim,Sim,2,850.0,Sim
+P013,2026-11-06,Feijão,150,Cuamba,Não,Sim,8,0.0,Não
